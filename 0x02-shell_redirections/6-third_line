@@ -1,2 +1,1 @@
-#!/bin/bash
-awk '{if(NR==3) print $0}' iactia
+
